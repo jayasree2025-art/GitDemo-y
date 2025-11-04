@@ -1,0 +1,7 @@
+
+	@Test
+	public void Demo() {
+		System.out.println("Hello");
+		AssertJUnit.assertTrue(false);
+	}
+	
